@@ -1,0 +1,12 @@
+footer {
+    position: absolute;
+    bottom: 10;
+    line-height: 50px;
+}
+.negrita {
+    font-weight: bolder;
+}
+
+.animate__animated.animate__backInRight {
+    --animate-duration: 2s;
+}
